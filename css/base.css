@@ -1,0 +1,13 @@
+body {
+  font-size: 1.6em;
+  font-family: Helvetica;
+}
+
+.photo img {
+  border-radius: 100px;
+  height: 160px;
+}
+
+.container {
+  padding-top: 20px
+}
